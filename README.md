@@ -1,4 +1,4 @@
-# "Magi Bridge"
+# Magi Bridge
 [Magi Bridge](https://bit.ly/MagiBridge) is unofficial way to swap Magi (XMG) between Magi mainnet and Magi BEP20 (bscXMG).
 
 - 1 XMG = 1 bscXMG

@@ -1,5 +1,5 @@
 # Magi Bridge
-[Magi Bridge](https://bit.ly/MagiBridge) is a way to swap Magi (XMG) between Magi mainnet and Magi BEP20 (bscXMG).
+[Magi Bridge](https://bit.ly/MagiBridge) is a way to swap Magi (XMG) between Magi mainnet and Magi BEP20 (bscXMG) on Binance Smart Chain.
 
 - 1 XMG = 1 bscXMG
 - Manual transfer within 48 hours

@@ -1,0 +1,16 @@
+# Magi Bridge - Terms of Service
+1. [Magi Bridge](https://swap.magibridge.com) is a way to wrap [Magi (XMG)](https://www.xmg.network) to [Binance Smart Chain](https://bscscan.com).
+
+2. [Wrapped XMG (WXMG)](https://bit.ly/3GSuhLf) is wrapped Magi token on Binance Smart Chain.
+
+3. You are responsible for your funds. We are not responsible for your action.
+
+4. You are responsible for the way you use Magi Bridge, WXMG and WXMG-BNB LP tokens.
+
+5. You will get [WXMG-BNB LP](https://bit.ly/3Q3MbPb) tokens by providing liquidity in [WXMG/BNB pool](https://pancakeswap.finance/add/0xeC159cd31964d7E64225F52757d0055f0beEA5c8/BNB) and you can stake them with 100% APR.
+
+6. The entire Magi Bridge project is [licensed]() and covered by copyright.
+
+7. You can contact us at any time by e-mail at info@magibridge.com
+
+8. Each user using Magi Bridge agrees to comply with the above rules.

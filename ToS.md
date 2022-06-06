@@ -1,5 +1,5 @@
 # Magi Bridge - Terms of Service
-1. [Magi Bridge](https://swap.magibridge.com) is a way to wrap [Magi (XMG)](https://www.xmg.network) to [Binance Smart Chain](https://bscscan.com).
+1. [Magi Bridge](https://wrap.magibridge.com) is a way to wrap [Magi (XMG)](https://www.xmg.network) to [Binance Smart Chain](https://bscscan.com).
 
 2. [Wrapped XMG (WXMG)](https://bit.ly/3GSuhLf) is wrapped Magi token on Binance Smart Chain.
 

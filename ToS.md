@@ -9,7 +9,7 @@
 
 5. You will get [WXMG-BNB LP](https://bit.ly/3Q3MbPb) tokens by providing liquidity in [WXMG/BNB pool](https://pancakeswap.finance/add/0xeC159cd31964d7E64225F52757d0055f0beEA5c8/BNB) and you can stake them with 100% APR.
 
-6. The entire Magi Bridge project is [licensed]() and covered by copyright.
+6. The entire Magi Bridge project is [licensed](https://github.com/MagiBridge/MagiBridge/blob/main/LICENSE) and covered by copyright.
 
 7. You can contact us at any time by e-mail at info@magibridge.com
 

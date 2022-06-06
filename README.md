@@ -5,4 +5,4 @@
 - Wrap within 24 hours
 - No fees
 
-[Website](https://swap.magibridge.com) | [Token Info](https://bit.ly/3GSuhLf) | [Contract Source Code](https://github.com/MagiBridge/MagiBridge/blob/main/WXMG.sol) | [Magi BEP20 Logo](https://github.com/MagiBridge/MagiBridge/blob/main/Magi%20BEP20%20Logo.png) | [bscXMG-BNB LP Logo](https://github.com/MagiBridge/MagiBridge/blob/main/bscXMG-BNB%20LP%20Logo.png) | [Terms Of Service]() | [License](https://github.com/MagiBridge/MagiBridge/blob/main/LICENSE)
+[Website](https://swap.magibridge.com) | [Token Info](https://bit.ly/3GSuhLf) | [Contract Source Code](https://github.com/MagiBridge/MagiBridge/blob/main/WXMG.sol) | [WXMG Logo](https://github.com/MagiBridge/MagiBridge/blob/main/WXMG.png) | [WXMG-BNB LP Logo](https://github.com/MagiBridge/MagiBridge/blob/main/WXMG-BNB%20LP%20Logo.png) | [Terms Of Service]() | [License](https://github.com/MagiBridge/MagiBridge/blob/main/LICENSE)

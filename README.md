@@ -1,5 +1,5 @@
 # Magi Bridge
-[Magi Bridge](https://swap.magibridge.com) is a way to wrap Magi (XMG) to [Binance Smart Chain]{https://bscscan.com}.
+[Magi Bridge](https://swap.magibridge.com) is a way to wrap Magi (XMG) to [Binance Smart Chain](https://bscscan.com).
 
 - 1 XMG = 1 WXMG
 - Wrap within 24 hours

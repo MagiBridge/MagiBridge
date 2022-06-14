@@ -7,7 +7,7 @@
 
 4. You are responsible for the way you use Magi Bridge, WXMG and WXMG-BNB LP tokens.
 
-5. You will get [WXMG-BNB LP](https://bit.ly/3Q3MbPb) tokens by providing liquidity in [WXMG/BNB pool](https://pancakeswap.finance/add/0xeC159cd31964d7E64225F52757d0055f0beEA5c8/BNB) and you can stake them with 100% APR.
+5. You will get [WXMG-BNB LP](https://bit.ly/3Q3MbPb) tokens by providing liquidity in [WXMG/BNB pool](https://pancakeswap.finance/add/0xeC159cd31964d7E64225F52757d0055f0beEA5c8/BNB) and you can stake them in [WXMG-BNB Farm](https://wrap.magibridge.com/wxmg-bnb-farm) and earn WXMG with 100% APR.
 
 6. The entire Magi Bridge project is [licensed](https://github.com/MagiBridge/MagiBridge/blob/main/LICENSE) and covered by copyright.
 

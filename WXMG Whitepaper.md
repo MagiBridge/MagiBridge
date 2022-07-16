@@ -1,1 +1,1 @@
-# [WXMG Whitepaper](https://drive.google.com/file/d/1LaByuBtdH6Ns8tKsNkBX7wUkRxP_o8fu/view?usp=sharing)
+# [WXMG Whitepaper](https://drive.google.com/file/d/1h6PA6F6is8jV4MA8FtnBlHEyogyKGQTm/view?usp=sharing)

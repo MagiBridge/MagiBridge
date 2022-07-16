@@ -5,4 +5,4 @@
 - Wrap within 24 hours
 - No fees
 
-[Website](https://wrap.magibridge.com) | [WXMG Whitepaper](https://drive.google.com/file/d/1LaByuBtdH6Ns8tKsNkBX7wUkRxP_o8fu/view?usp=sharing) | [Contract Source Code](https://github.com/MagiBridge/MagiBridge/blob/main/WXMG.sol) | [WXMG Logo](https://github.com/MagiBridge/MagiBridge/blob/main/WXMG%20Logo.png) | [WXMG-BNB LP Logo](https://github.com/MagiBridge/MagiBridge/blob/main/WXMG-BNB%20LP%20Logo.png) | [Terms of Service](https://github.com/MagiBridge/MagiBridge/blob/main/ToS.md) | [License](https://github.com/MagiBridge/MagiBridge/blob/main/LICENSE)
+[Website](https://wrap.magibridge.com) | [WXMG Whitepaper](https://drive.google.com/file/d/1h6PA6F6is8jV4MA8FtnBlHEyogyKGQTm/view?usp=sharing) | [Contract Source Code](https://github.com/MagiBridge/MagiBridge/blob/main/WXMG.sol) | [WXMG Logo](https://github.com/MagiBridge/MagiBridge/blob/main/WXMG%20Logo.png) | [WXMG-BNB LP Logo](https://github.com/MagiBridge/MagiBridge/blob/main/WXMG-BNB%20LP%20Logo.png) | [Terms of Service](https://github.com/MagiBridge/MagiBridge/blob/main/ToS.md) | [License](https://github.com/MagiBridge/MagiBridge/blob/main/LICENSE)
